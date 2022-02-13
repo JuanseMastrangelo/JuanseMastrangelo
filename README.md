@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Creator%20of%20Programadores%20Argentina&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/JuanseMastrangelo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Programadores%20Argentina&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
  
 
