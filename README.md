@@ -2,12 +2,8 @@
   <p align="center">
     <a href="https://www.instagram.com/programadores_argentina"><img width="200px" alt="Instagram" title="Programadores Argentina Community" src="https://i.imgur.com/0BjrPcd.png"></a>
   </p>
-  Welcome to Juanse Mastrangelo's profile! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/JuanseMastrangelo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Programadores%20Argentina&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
  
 
 <!-- Social icons section -->
