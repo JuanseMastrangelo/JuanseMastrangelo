@@ -23,13 +23,22 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/JuanseMastrangelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+## Cardenas VS Code Extension
+<p align="left">
+  <a href="https://github.com/CardenasExtension"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CardenasExtension&repo=cardenas-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cardenas-client"></a>
+</p>
+
+## `₿` Twitter account decentralized (Solidity & ReactJS)
+<p align="left">
+  <a href="https://github.com/0xAccount"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=0xAccount&repo=community-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="community-client"></a>
+  <a href="https://github.com/0xAccount"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=0xAccount&repo=community-contracts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="community-contracts"></a>
+</p>
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/CardenasExtension"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CardenasExtension&repo=cardenas-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cardenas-client"></a>
   <a href="https://github.com/JuanseMastrangelo/Videollamadas"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanseMastrangelo&repo=Videollamadas&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Videollamadas"></a>
-  <a href="https://github.com/0xAccount"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=0xAccount&repo=community-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="community-client"></a>
   <a href="https://github.com/JuanseMastrangelo/MercadoLibreClone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanseMastrangelo&repo=MercadoLibreClone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MercadoLibreClone">
   <a href="https://github.com/JuanseMastrangelo/Expo-Instagram-Stories"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanseMastrangelo&repo=Expo-Instagram-Stories&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Expo-Instagram-Stories"></a>
 </p>
