@@ -10,13 +10,13 @@
 <!-- Social icons section -->
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/juansemastrangelo" title="LinkedIn">
+<a href="https://www.linkedin.com/in/juansemastrangelo" title="LinkedIn" target="_blank">
   <img alt="juansemastrangelo's LinkdeIN" width="50px" src="https://i.ibb.co/FqXgQYK/logotipo-de-linkedin.png" />
 </a>
-<a href="https://www.instagram.com/programadores_argentina/" title="Instagram Programadores Argentina Community">
+<a href="https://www.instagram.com/programadores_argentina/" title="Instagram Programadores Argentina Community" target="_blank">
   <img alt="programadores_argentina's Instagram" width="50px" src="https://i.ibb.co/GHG7CHr/logotipo-de-instagram.png" />
 </a>
-<a href="https://dev.to/juansemastrangelo" title="Dev.to">
+<a href="https://dev.to/juansemastrangelo" title="Dev.to" target="_blank">
   <img alt="JuanseMastrangelo's Dev" width="50px" src="https://i.imgur.com/mVm29vK.png" />
 </a>
  
