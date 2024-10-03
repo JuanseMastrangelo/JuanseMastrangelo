@@ -1,1 +1,1 @@
-[![@juansemastrangelo's Holopin board](https://holopin.io/api/user/board?user=juansemastrangelo)](https://holopin.io/@juansemastrangelo)
+[![An image of @juansemastrangelo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juansemastrangelo)](https://holopin.io/@juansemastrangelo)
