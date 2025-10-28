@@ -1,1 +1,1 @@
-[![An image of @juansemastrangelo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juansemastrangelo)](https://holopin.io/@juansemastrangelo)
+[![Pines de la Comunidad de Programadores Argentina](https://programadoresargentina.com/api/badges/juansemastrangelo)](https://programadoresargentina.com/pines)
